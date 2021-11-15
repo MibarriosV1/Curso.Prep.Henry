@@ -1,0 +1,16 @@
+Variables: 
+Una variable es un contenedor para un valor. Este varlor puede ser un número o una cadena de caracteres (entre otros) y pueden cambiar.
+
+Strings:
+Un string es una cadena de caracteres que se interpreta como texto
+
+Funciones:
+La sentencia return finaliza la ejecución de la función y especifica un valor para ser devuelto a quien llama a la función.
+
+If:
+Se utiliza para evaluar una expresión condicional: si se cumple la condición (es verdadera) se ejecuta una sentencia. Si es falsa, es posible ejecutar otras sentencias
+
+Valores booleanos:
+Una variable es booleana si se le asigna como contenido true ó false. 
+Estas variables se usan para almacenar información del tipo:
+sí / no, cumple / no cumple, verdadero / falso, existe / no existe, es decir, información que únicamente puede tener dos estados.
