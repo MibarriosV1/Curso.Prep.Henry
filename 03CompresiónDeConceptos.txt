@@ -1,0 +1,14 @@
+for:
+El bucle FOR se utiliza para repetir una o más instrucciones un determinado número de veces
+
+&&:
+&& (AND) es un operador booleano
+devuelve true si a y b son iguales. caso cotraro devolverá false
+
+||:
+|| (OR) devuelve false si los a y b son false. sino devuelve true
+
+!:
+! (NOT) 
+!a devuelve false si a es true
+!a devuelve true si a es false 
