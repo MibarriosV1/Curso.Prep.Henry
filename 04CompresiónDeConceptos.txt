@@ -1,0 +1,2 @@
+Arrays: 
+Es una colección de objetos que se almacenan en memoria
